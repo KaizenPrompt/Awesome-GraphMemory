@@ -42,7 +42,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 ## 🔥 News
 
-* **[2025-02-03]** 🔥🔥 Our survey on Graph-based Agent Memory is released.
+* **[2026-02-03]** 🔥🔥 Our survey on Graph-based Agent Memory is released.
 
 
 ## 📚 Related Survey Papers
